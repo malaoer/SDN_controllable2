@@ -7,5 +7,11 @@
 策略冲突
     我们将网络中策略存在冲突的情况分为两种：
     1、直接冲突
-    2、组合冲突
-    3、策略之间存在冗余
+    而根据不同策略之间匹配域、优先级和动作之间的关系又可以分为以下几类：
+    a、冗余（Redundancy）
+    b、覆盖冲突(Shadowing)
+    c、泛化冲突(Generalization)
+    d、(Corellation)
+    e、部分重叠冲突(Overlap)
+    f、(Imbrication)
+    2、间接冲突
